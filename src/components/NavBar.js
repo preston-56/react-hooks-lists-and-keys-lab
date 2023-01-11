@@ -7,7 +7,7 @@ function NavBar() {
       <a href={"#" + link} key={link}>
         {link}
       </a>
-    );
+    )
   });
 
   /* display an <a> tag for each link here */
